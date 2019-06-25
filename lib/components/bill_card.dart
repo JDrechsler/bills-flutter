@@ -9,7 +9,7 @@ class BillCard extends StatefulWidget {
   });
 
   final int dueDate;
-  final int amount;
+  final dynamic amount;
   final String title;
   final String imageUrl;
 
